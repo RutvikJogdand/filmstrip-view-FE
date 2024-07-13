@@ -1,0 +1,11 @@
+.thumbnail-box{
+    display: flex;
+    overflow: hidden;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.thumbnail-img{
+    width: 100%;
+    height: auto;
+}
